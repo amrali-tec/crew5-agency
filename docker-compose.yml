@@ -1,0 +1,17 @@
+services:
+  crew5-agency:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: crew5_agency_app
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - NODE_ENV=production
+      - PORT=5000
+      - SITE_URL=https://crew5.agency
+    volumes:
+      # Persist the JSON Database and Uploaded Media
+      - ./server/data:/app/server/data
+      - ./public/uploads:/app/public/uploads

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%" fill="none">
+  <defs>
+    <!-- Brand Neon Green Gradient -->
+    <linearGradient id="iconNeonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F280"/>
+      <stop offset="50%" stop-color="#00D26A"/>
+      <stop offset="100%" stop-color="#00994D"/>
+    </linearGradient>
+
+    <!-- Dark Center Gradient -->
+    <radialGradient id="darkBg" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#0E1626"/>
+      <stop offset="100%" stop-color="#04060A"/>
+    </radialGradient>
+
+    <!-- Glowing Effect -->
+    <filter id="iconGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Outer Glow Shadow -->
+  <rect x="20" y="20" width="160" height="160" rx="46" fill="url(#iconNeonGrad)" filter="url(#iconGlow)" opacity="0.35"/>
+
+  <!-- Border Gradient -->
+  <rect x="20" y="20" width="160" height="160" rx="46" fill="url(#iconNeonGrad)"/>
+
+  <!-- Inner Dark Chamber -->
+  <rect x="26" y="26" width="148" height="148" rx="40" fill="url(#darkBg)"/>
+
+  <!-- Iconic Number 5 with Neon Glow -->
+  <text x="100" y="138" 
+        font-family="'Montserrat', 'Arial Black', sans-serif" 
+        font-size="108" 
+        font-weight="900" 
+        fill="url(#iconNeonGrad)" 
+        text-anchor="middle"
+        filter="url(#iconGlow)">
+    5
+  </text>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 120" width="100%" height="100%" fill="none">
+  <defs>
+    <!-- Brand Neon Green Gradient -->
+    <linearGradient id="crew5NeonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F280"/>
+      <stop offset="50%" stop-color="#00D26A"/>
+      <stop offset="100%" stop-color="#00994D"/>
+    </linearGradient>
+
+    <!-- Subtle Glow Filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F280" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#00B359" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 1. Icon Badge Box -->
+  <g transform="translate(10, 15)">
+    <!-- Outer Glow & Gradient Border -->
+    <rect x="0" y="0" width="90" height="90" rx="26" fill="url(#crew5NeonGrad)" filter="url(#neonGlow)" opacity="0.3"/>
+    <rect x="0" y="0" width="90" height="90" rx="26" fill="url(#crew5NeonGrad)"/>
+    
+    <!-- Inner Dark Box -->
+    <rect x="3.5" y="3.5" width="83" height="83" rx="22.5" fill="#060911"/>
+    
+    <!-- Iconic Number 5 -->
+    <text x="45" y="64" 
+          font-family="'Montserrat', 'Arial Black', sans-serif" 
+          font-size="56" 
+          font-weight="900" 
+          fill="url(#crew5NeonGrad)" 
+          text-anchor="middle"
+          filter="url(#neonGlow)">
+      5
+    </text>
+  </g>
+
+  <!-- 2. Typography Text "Crew5" -->
+  <g transform="translate(118, 68)">
+    <text font-family="'Montserrat', sans-serif" font-size="44" font-weight="900" letter-spacing="-1.5">
+      <tspan fill="#FFFFFF">Crew</tspan>
+      <tspan fill="url(#crew5NeonGrad)" filter="url(#neonGlow)">5</tspan>
+    </text>
+  </g>
+
+  <!-- 3. Agency Pill Badge -->
+  <g transform="translate(292, 38)">
+    <rect x="0" y="0" width="76" height="26" rx="13" fill="url(#pillGrad)" stroke="#00F280" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="38" y="18" 
+          font-family="'Montserrat', sans-serif" 
+          font-size="12" 
+          font-weight="800" 
+          fill="#00F280" 
+          letter-spacing="0.5" 
+          text-anchor="middle">
+      AGENCY
+    </text>
+  </g>
+
+  <!-- 4. Subtitle / Tagline (Arabic & English) -->
+  <g transform="translate(120, 96)">
+    <text font-family="'Cairo', 'Montserrat', sans-serif" font-size="13" font-weight="600" fill="#94A3B8" letter-spacing="0.2">
+      وكالة الإبداع والتحول الرقمي • Creative Digital Agency
+    </text>
+  </g>
+</svg>

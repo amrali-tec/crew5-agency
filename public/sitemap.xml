@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://crew5.agency</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[Crew5 Agency | الرئيسية]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/about</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[من نحن | Crew5 Agency]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/ceo-message</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[رسالة الرئيس التنفيذي]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/services</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[خدماتنا | Crew5 Agency]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/projects</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[أعمالنا | Crew5 Agency]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/estimator</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[حاسبة المشاريع الرقمية]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/audit</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[فحص وتدقيق المواقع]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/blog</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[المدونة الرقمية | Crew5 Agency]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/contact</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[تواصل معنا]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/faq</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[الأسئلة الشائعة]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/privacy-policy</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[سياسة الخصوصية]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/terms-and-conditions</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[الشروط والأحكام]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/services/web-development</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[تصميم وتطوير المواقع والمتاجر الإلكترونية]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/services/brand-identity</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[بناء وتصميم الهويات البصرية الشاملة]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/services/seo-optimization</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[تحسين محركات البحث وتصدر نتائج Google (SEO)]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/services/mobile-apps</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[تطوير تطبيقات الجوال والأنظمة السحابية المخصصة]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/services/video-editing</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[المونتاج السينمائي وهندسة الصوت والمؤثرات]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/services/reels-tiktok</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[صناعة وتصوير الفيديوهات القصيرة (Reels & TikTok)]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/services/commercial-ads</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[تصوير الإعلانات التجارية والأفلام الوثائقية 4K]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/services/motion-graphics</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[الرسوم المتحركة والموشن جرافيك 2D/3D]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/services/paid-ads</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[إدارة الحملات الإعلانية الممولة (Google, Meta, TikTok, Snap)]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/services/social-media-management</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[إدارة وتنمية حسابات التواصل الاجتماعي]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/services/content-creation</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[صناعة المحتوى الإبداعي وكتابة السيناريو الإعلاني]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/services/influencer-marketing</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[التسويق عبر المؤثرين والعلاقات العامة الرقمية]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/projects/cairo-cosmo-center</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/project_beauty_center.jpg</image:loc>
+      <image:title><![CDATA[تصميم وتطوير المنصة الرقمية لـ "مركز القاهرة الطبي لجراحات التجميل والليزر"]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/projects/hedab-al-khaleej-contracting</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/project_hedabkh.webp</image:loc>
+      <image:title><![CDATA[المنصة المؤسسية لـ "شركة هضاب الخليج للمقاولات العامة" والبنية التحتية]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/projects/elite-luxury-ecommerce</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/blog_brand_identity.jpg</image:loc>
+      <image:title><![CDATA[تصميم وتطوير متجر "إيليت كولكشن" للمنتجات الفاخرة والتجارة الإلكترونية]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/projects/sahab-tech-performance-optimization</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/blog_digital_marketing_2025.jpg</image:loc>
+      <image:title><![CDATA[إعادة هندسة وتسريع الأداء الشامل لمنصة "سحاب تك" السحابية]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/projects/rawasi-smart-realestate</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/project_branding_nokhabat.jpg</image:loc>
+      <image:title><![CDATA[تصميم وبناء منصة "رواسي العقارية" للوساطة والخرائط التفاعلية]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/projects/lumina-cafe-branding-and-campaign</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/project_saudi_founding_video.jpg</image:loc>
+      <image:title><![CDATA[بناء الهوية البصرية والحملة الإعلانية لـ "سلسلة مقاهي لومينا"]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/blog/saudi-digital-transformation-journey-2030</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/project_national_day.jpg</image:loc>
+      <image:title><![CDATA[تطور مسيرة التحول الرقمي في المملكة العربية السعودية: من رؤية 2030 إلى ريادة الاقتصاد الرقمي العالمي]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/blog/egypt-digital-transformation-levels-and-crew5-vision</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/blog_digital_marketing_2025.jpg</image:loc>
+      <image:title><![CDATA[مستويات ومراحل التحول الرقمي في مصر: خارطة طريق شاملة ورؤية وكالة Crew5 لتمكين المؤسسات والجهات المصرية]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/blog/generative-ai-in-modern-business</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/blog_brand_identity.jpg</image:loc>
+      <image:title><![CDATA[الذكاء الاصطناعي التوليدي في بيئة الأعمال: كيف يختصر 40% من تكاليف التسويق والإنتاج الرقمي؟]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/blog/digital-marketing-importance-2025</loc>
+    <lastmod>2025-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/blog_digital_marketing_2025.jpg</image:loc>
+      <image:title><![CDATA[أهمية التسويق الرقمي الحديث: دليلك الشامل للبقاء والنمو في بيئة الأعمال المعاصرة]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/blog/building-a-memorable-brand-identity</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/blog_brand_identity.jpg</image:loc>
+      <image:title><![CDATA[كيف تبني هوية تجارية لا تُنسى؟ خطوات عملية من الفكرة للتنفيذ]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/blog/power-of-creative-content</loc>
+    <lastmod>2025-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/blog_creative_content.jpg</image:loc>
+      <image:title><![CDATA[قوة المحتوى الإبداعي في جذب العملاء وتحقيق المبيعات]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/blog/saudi-ecommerce-store-cost-guide-2026</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/project_ecommerce_app.jpg</image:loc>
+      <image:title><![CDATA[دليل تكلفة إنشاء وتصميم متجر إلكتروني في السعودية 2026: مقارنة شاملة بين منصات سلة، زد، وشوبيفاي]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/blog/comprehensive-brand-identity-guide-saudi-market</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/project_branding_nokhabat.jpg</image:loc>
+      <image:title><![CDATA[كيف تبني هوية بصرية متكاملة تميز علامتك في السوق السعودي: الدليل الاستراتيجي الشامل 2026]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/blog/tiktok-snapchat-paid-ads-strategies-gcc</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/blog_digital_marketing_2025.jpg</image:loc>
+      <image:title><![CDATA[أسرار إدارة الحملات الإعلانية الممولة على تيك توك وسناب شات في السعودية والخليج لتحقيق أعلى عائد (ROAS)]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/blog/core-web-vitals-seo-ranking-riyadh-companies</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/blog_creative_content.jpg</image:loc>
+      <image:title><![CDATA[تحسين محركات البحث (SEO) والـ Core Web Vitals: كيف تتصدر شركتك نتائج البحث الأولى في جوجل السعودية؟]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/blog/cinematic-video-production-for-saudi-brands</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/project_commercial_video.jpg</image:loc>
+      <image:title><![CDATA[الإنتاج المرئي والإعلانات السينمائية: كيف تبني الثقة وتضاعف معدل التحويل لعلامتك التجارية؟]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/blog/how-to-choose-the-best-digital-marketing-agency-saudi</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[كيف تختار أفضل وكالة تسويق رقمي وبرمجة في السعودية لمشروعك؟ (معايير التقييم وتفادي الأخطاء)]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/p/medical-clinics-marketing</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[حلول التسويق الرقمي والهوية للمراكز والعيادات الطبية في السعودية]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/p/restaurants-cafes-branding</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[بناء الهوية والتسويق لقطاع المطاعم والمقاهي والكافيهات في الرياض]]></image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://crew5.agency/p/real-estate-platforms-saudi</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://crew5.agency/assets/hero_team.jpg</image:loc>
+      <image:title><![CDATA[تطوير المنصات والتسويق العقاري الرقمي للشركات والمطورين في السعودية]]></image:title>
+    </image:image>
+  </url>
+</urlset>

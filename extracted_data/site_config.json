@@ -1,0 +1,63 @@
+{
+  "name": "Crew5 Agency",
+  "tagline": "نصنع الإبداع الرقمي",
+  "description": "وكالة متخصصة في تحويل الأفكار إلى تجارب رقمية مبتكرة. من التصميم إلى التسويق، نحن شريكك في النمو.",
+  "contact": {
+    "email": "contact@crew5.agency",
+    "phone": "+966 123 456 789",
+    "location": "المملكة العربية السعودية"
+  },
+  "socialLinks": {
+    "linkedin": "https://linkedin.com",
+    "instagram": "https://instagram.com",
+    "twitter": "https://twitter.com",
+    "facebook": "https://facebook.com"
+  },
+  "branding": {
+    "primaryColor": "#0a0f1f",
+    "accentColor": "#00ff7f",
+    "accentGlow": "0 0 20px rgba(0, 255, 127, 0.3)",
+    "textColor": "#e0e0e0",
+    "textLight": "#f8fafc",
+    "textMuted": "#94a3b8",
+    "fontFamily": "'Cairo', 'Montserrat', sans-serif"
+  },
+  "routes": [
+    {
+      "path": "/",
+      "title": "الرئيسية"
+    },
+    {
+      "path": "/about",
+      "title": "من نحن"
+    },
+    {
+      "path": "/services",
+      "title": "خدماتنا"
+    },
+    {
+      "path": "/projects",
+      "title": "أعمالنا"
+    },
+    {
+      "path": "/blog",
+      "title": "المدونة"
+    },
+    {
+      "path": "/contact",
+      "title": "تواصل معنا"
+    },
+    {
+      "path": "/faq",
+      "title": "الأسئلة الشائعة"
+    },
+    {
+      "path": "/privacy-policy",
+      "title": "سياسة الخصوصية"
+    },
+    {
+      "path": "/terms-and-conditions",
+      "title": "الشروط والأحكام"
+    }
+  ]
+}

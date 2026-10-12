@@ -1,0 +1,16 @@
+# Robots.txt for Crew5 Agency
+# https://crew5.agency
+
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /uploads/
+Disallow: /admin/
+Disallow: /admin/*
+Disallow: /api/
+Disallow: /api/*
+Disallow: /track
+Disallow: /track/*
+
+# Search Engine Crawlers Sitemap Reference
+Sitemap: https://crew5.agency/sitemap.xml

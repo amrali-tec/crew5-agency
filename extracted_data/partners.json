@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Google",
+    "logo": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google.svg"
+  },
+  {
+    "name": "Meta",
+    "logo": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/meta.svg"
+  },
+  {
+    "name": "Microsoft",
+    "logo": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/microsoft.svg"
+  },
+  {
+    "name": "Apple",
+    "logo": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/apple.svg"
+  },
+  {
+    "name": "Amazon",
+    "logo": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/amazon.svg"
+  },
+  {
+    "name": "Slack",
+    "logo": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slack.svg"
+  },
+  {
+    "name": "Spotify",
+    "logo": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/spotify.svg"
+  }
+]
